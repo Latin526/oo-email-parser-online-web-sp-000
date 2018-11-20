@@ -4,5 +4,5 @@
 # or whitespace (' ').
 require 'pry'
 class EmailParser
-  
+  attr_accessor 
 end
