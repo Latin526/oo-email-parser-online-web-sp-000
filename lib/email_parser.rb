@@ -4,6 +4,8 @@
 # or whitespace (' ').
 require 'pry'
 class EmailParser
-  attr_accessor :email 
+  attr_accessor :emails 
+  
+  def 
   
 end
